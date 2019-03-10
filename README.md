@@ -11,4 +11,6 @@ This is a demo of how KNN and NetWork do learning of the images.
 
 采用的是Python的程序来实现相应的功能。
 
+此外，因为使用神经网络的时候解压产生的文件过大，不能上传，因而大家可以自行下载或者通过Email联系。
+
 如果有任何疑问：请联系Email:sunhaoxx@foxmail.com
